@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">🌍  I'm based in Chiang Mai<br>🖥️  See my portfolio at Portfolio<br>✉️  You can contact me at supanataom1710@gmail.com<br>🧠  I'm learning Jenkin, Golang</p>
+<p align="left">🌍  I'm based in Chiang Mai<br>🖥️  See my portfolio at Portfolio<br>✉️  You can contact me at supanataom1710@gmail.com<br>🧠  I'm learning Jenkins, Golang</p>
 
 ###
 
@@ -68,6 +68,8 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="40" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" height="40" alt="jenkins logo"  />
 </div>
 
 ###
